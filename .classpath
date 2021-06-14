@@ -43,5 +43,6 @@
 	<classpathentry kind="lib" path="C:/Users/a0926/Desktop/program/apache-tomcat-9.0.43/lib/tomcat-util-scan.jar"/>
 	<classpathentry kind="lib" path="C:/Users/a0926/Desktop/program/apache-tomcat-9.0.43/lib/tomcat-websocket.jar"/>
 	<classpathentry kind="lib" path="C:/Users/a0926/Desktop/program/apache-tomcat-9.0.43/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a0926/Desktop/javax.persistence-api-2.2.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
